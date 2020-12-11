@@ -13,7 +13,7 @@
   }
   
   .inner_banner {
-    background: url('../images/sections/IMG_20200201_085009\ \(1\).jpg')no-repeat center;
+    background: url(../images/sections/IMG_20200201_085009\ \(1\).jpg)no-repeat center;
      -webkit-background-size: 180%;
     -moz-background-size: 180%;
     -o-background-size: 180%;
